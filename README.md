@@ -2,7 +2,7 @@
 
 I'm CTO at [Daphni](https://daphni.com), a European venture capital firm, where I build
 **Flamel** — the data and AI platform we use to source, assess and follow our investments.
-I co-founded **TOTEM**.
+I co-founded [**TOTEM**](https://totem.co).
 
 I trained as an engineer at [CentraleSupélec](https://www.centralesupelec.fr)
 (Université Paris-Saclay), specialising in applied mathematics, data science and AI —
